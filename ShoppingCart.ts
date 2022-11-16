@@ -74,7 +74,7 @@ const cart = new Cart();
 //cart.setDelivery(
 //  new HomeDelivery(
 //    new Date(),
-//    "city: Novosibirsk, streel Blyhera 61/1, flat 38"
+//    "city: Novosibirsk, street Blyhera 61/1, flat 38"
 //  )
 //);
 //console.log(cart.getSum());
